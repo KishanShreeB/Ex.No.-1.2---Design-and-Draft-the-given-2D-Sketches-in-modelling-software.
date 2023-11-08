@@ -37,7 +37,8 @@
 
  ## OUTPUT
  
-![image](https://github.com/KishanShreeB/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870434/1113c7ac-28ea-4428-b29f-8f4ba2bff737)
+![image](https://github.com/KishanShreeB/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870434/edd7c1cd-304f-4322-873f-eeb0ab0fab65)
+
 
  
  ## RESULT
